@@ -166,14 +166,17 @@ Na-na-na-na-na-na-na-na
 
 
 4 cursiva- bailalo lento- zeballos- 4:20
+
 Dice que en la altura no resulta estar conmigo
 Que sus miedos pesan más que ser amigos
 Papi, hagámoslo, hagamos lo prohibido
 Tenes las ganas pa' darme castigo
+
 Castigo, hagámoslo de una vez
 Cuenta el cuento que terminamos en el set
 Si te miro no me hace falta decir que
 Las horas pasan lento cuando estoy con él
+
 Muy lеnto-lento, dile a esa hoe quе lo siento
 Que te robé el corazón, y ella lo intentó
 Y que en mí pensas cuando se lo estás haciendo
@@ -498,13 +501,13 @@ With your hands between your thighs and a smile
 COLORES
 
 paleta 1:
-282D4F
-23103A
-A0204C
-FF6C00
+362222
+171010
+423F3E
+2B2B2B
 
 paleta 2:
-070739
-521477
-C327AB
-E1E099
+321F28
+734046
+A05344
+E79E4F
