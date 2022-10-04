@@ -1,0 +1,26 @@
+h1 {
+    color: #DCD7C9;
+}
+h2 {
+    color: #DCD7C9
+}
+table {
+    background-color: #3F4E4F;
+    color: black;
+    width: 100%;
+}
+td {
+    border-bottom: 1px solid black;
+}
+main {
+    color   : white;
+}
+body {
+background-color: #2C3639;
+/* background-image: url('/assets/imagenes/nocheestrellas.jpg'); */
+}
+footer {
+    color: #DCD7C9 ;
+}
+a {
+    color: white;
