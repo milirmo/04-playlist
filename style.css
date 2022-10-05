@@ -1,26 +1,33 @@
-h1 {
+p, h1, h2 {
     color: #DCD7C9;
-}
-h2 {
-    color: #DCD7C9
 }
 table {
     background-color: #3F4E4F;
-    color: black;
+    color: whitesmoke;
     width: 100%;
 }
 td {
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid whitesmoke;
 }
 main {
-    color   : white;
+    color: white;
+    background-color: #3f4e4fc2;
 }
 body {
 background-color: #2C3639;
-/* background-image: url('/assets/imagenes/nocheestrellas.jpg'); */
+/* background-image: url ('/assets/imagenes/nocheestrellas.jpg'); */
 }
 footer {
-    color: #DCD7C9 ;
+    color: #DCD7C9;
 }
 a {
-    color: white;
+    color: white; 
+}
+.letra1 {
+    background-color: #2C3639;
+}  
+main,footer {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
